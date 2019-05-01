@@ -1,4 +1,4 @@
-# PyTorch_CosineAnnealingWithRestartsLR
+# PyTorch_CosineAnnealingWithRestartsLR (WIP)
 To set the learning rate of each parameter group using a cosine annealing schedule.
 
 This repository is contains the core implementation of SGDR: Stochastic Gradient Descent with Warm Restarts.
